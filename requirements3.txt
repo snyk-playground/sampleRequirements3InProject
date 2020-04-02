@@ -91,7 +91,7 @@ tzlocal==1.5.1            # via delorean
 ujson==1.35               # via lyft-ingest, lyft-stdlib
 unidecode==1.0.23         # via python-slugify
 urllib3==1.24.1           # via lyft-ingest, lyft-requests, requests
-webargs==2.1.0
+webargs==5.5.3
 werkzeug==0.15.2          # via flask
 
 pip==9.0.1
